@@ -1,6 +1,6 @@
 #A Python library for explaining the capabilities of python.
 import wikipedia
-def python():
+def python(): #Python programming
     print('Python Programming')
     definition=wikipedia.summary("Python Programming")
     print(definition)
